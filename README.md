@@ -1,4 +1,4 @@
-# USGWebsite
+# USG Website
 USG Website Portal
 
 This is a website made for the USTP Student Government. Bootstrap is the framework.
